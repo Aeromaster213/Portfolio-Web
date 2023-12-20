@@ -1,32 +1,30 @@
 ﻿ARUP BISWAS 
-// ![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.001.png)![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.002.png)![ref1]
+
 
 BTech in Computer Science and Engineering Indian Institute of Technology Tirupati, India www.linkedin.com/in/arup-biswas-279a06264/ https://github.com/Aeromaster213 
 
 Education Details
-// ![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.004.png)![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.005.png)
 
 Program Institute Year %/CGPA 
-// ![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.006.png)
 B.Tech - CSE IIT Tirupati 2025\* 7.2/10 CBSE 12th M.E.S. Indian School, Doha, Qatar 2021 97.2% CBSE 10th M.E.S. Indian School, Doha, Qatar 2019 96.4%
 
 * Program completion in Aug 2025
-  // ![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.007.png)Known Languages
+  Known Languages
 - Proficient in English, Conversational  and Written Hindi, Conversational and Written Bengali
 
 Areas of Interest![ref2]
 
-- Website Development, Web Scraping, User Interface Design Technical Proficiency![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.009.png)
+- Website Development, Web Scraping, User Interface Design Technical Proficiency
 
 Operating Systems : Windows, Arch Linux, Fedora
 
-Hardware Platforms : ARM v7, x86 64![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.010.png)
+Hardware Platforms : ARM v7, x86 64
 
 Programming Languages : C/C++, Java, Javascript, Python, Verilog
 
 Softwares/Frameworks : Git, CLion, ModelSim, Figma, Notion, Kdenlive, GIMP
 
-Projects![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.011.png)
+Projects
 
 - Tower of Babble -Course Project [September 2023 - November 2023]
 
@@ -48,11 +46,11 @@ Syntax Trees and did the documentatioOunr. interpreter implemented basic arithmi
 statements.
 
 - GUI Chess Game -Course Project [May 2022 - Jun 2022] I was part of a team of five in developing a GUI chess game written in PI  yh tehlpone .d design and test the GUI. It implemented most of the moves of modern chess and was designed to be user friendly.
-- Designing a 24-Hour Digital Clock in LogiSim -Course Project [Nov 2022 - Dec 2022] ![ref1]Designed a 24-hour format digital clock to display Hours, Minutes, and Seconds and allowed it to sync to real
+- Designing a 24-Hour Digital Clock in LogiSim -Course Project [Nov 2022 - Dec 2022] Designed a 24-hour format digital clock to display Hours, Minutes, and Seconds and allowed it to sync to real
 
 time and speed up or slow down using vsim tools, implementing a 7-seg-display, counters, in LogiSim.
 
-Relevant Courses![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.012.png)
+Relevant Courses
 
 - Data Structures and Algorithms *•* Computer Organisation
 - Theory of Computation *•* Discrete Mathematics for Computer Science
@@ -61,7 +59,7 @@ Relevant Courses![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.012.png)
 - Operating Systems\* *•* Machine Learning\*
 - Software Engineering\* *•* Compiler Design\*
 - Design and Analysis of Algorithms\*
-* To be completed in November 2023 Achievements![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.013.png)
+* To be completed in November 2023 Achievements
 - Institution of Engineers (India) awardee in 2022 for performance in CBSE, competitive exams, and project works.
 - Qatar contingent member for International Chemistry Olympiad (ICHO) in 2021, Japan.
 - Top five in Qatar in International Olympiads of Mathematics, Science, and Informatics, by Silver- Zone Foundation from 2013 to 2019.
@@ -69,7 +67,7 @@ Relevant Courses![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.012.png)
 - 23rd National Children’s Science Congress 2015, Chandigarh Qatar representative for my year-long project of co-location of Solar Panels and Aloe-Vera cultivation.
 - Sastra Pratibha winner 2014 and bronze medalist 2015.
 
-Positions of Responsibility![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.014.png)
+Positions of Responsibility
 
 Co-ordinator, Quiz Club IIT Tirupati [Aug 2022 - till date]
 
@@ -89,12 +87,11 @@ Extra Curricular activities![ref2]
 - Basketball
 - National Social Service volunteer.
 
-Hobbies and Interests![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.015.png)
+Hobbies and Interests
 
 - Dabbling in Internet Pop culture.
 - Reading story-rich Asian graphic novels.
 - Playing role-playing lore-heavy games made by Indie Developers.
-Updated on 11/08/2023 2
+Updated on 20/12/2023 
 
-[ref1]: Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.003.png
-[ref2]: Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.008.png
+
