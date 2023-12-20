@@ -1,8 +1,10 @@
-﻿ARUP BISWAS ![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.001.png)![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.002.png)![ref1]
+﻿ARUP BISWAS 
+ # ![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.001.png)![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.002.png)![ref1]
 
 BTech in Computer Science and Engineering Indian Institute of Technology Tirupati, India www.linkedin.com/in/arup-biswas-279a06264/ https://github.com/Aeromaster213 
 
-Education Details![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.004.png)![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.005.png)
+Education Details
+# ![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.004.png)![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.005.png)
 
 Program Institute Year %/CGPA ![](Aspose.Words.57796b5e-504e-4850-b9f3-59e64c92c187.006.png)B.Tech - CSE IIT Tirupati 2025\* 7.2/10 CBSE 12th M.E.S. Indian School, Doha, Qatar 2021 97.2% CBSE 10th M.E.S. Indian School, Doha, Qatar 2019 96.4%
 
